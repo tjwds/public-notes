@@ -26,8 +26,30 @@ I could not wrap my head around pressing ⌘O to bring up the file switcher, but
 
 I kept pressing ⌘N to create a new file and ⌘V to dump my clipboard buffer in one single action, because this is muscle memory for me at this point, but if you do this in Obsidian, you'll end up with your paste buffer as the file name, and you can't just ⌘A to select and delete your mistake, because you can't ⌘A within the title.
 
-• some clunky markdown things, especially making lists
-• Panes are not great imo
-• No tabs???
-• Accidental detritus everywhere — constantly deleting Untitled.md pages
-• does not support folders very well, impossible to find where an open doc currently is
+### Folders
+
+Folder support in Obsidian is not great.  You can either have all new files be created at the top level, or be put into the same directory as the file you just had open (?!).  This means that I was just constantly losing files, turning to my terminal to try to find where the heck the file actually went.  VSCode's file browser does this pretty great thing where it'll focus the file location in the file explorer when you focus on a file in your editor; it seems to me the Obsidian _must_ get this feature in order for me to be able to actually use it.  Trying to find a file among many, many folders all containing many, many files was infinitely frustrating.
+
+### VSCode's just better about workspaces and opening files
+
+I am constantly reaching for the terminal command `open .`.  As far as I know, you can't do that with Obsidian; nor is it really designed for opening arbitrary files to edit outside of the context of a project.
+
+I have a lot of workspace-specific configurations in VSCode, like the extension Peacock, which allows me to say, mark an editor as the bright blue "this is the active repository" editor so that I can very easily distinguish it from a reference repository I have open.  Yeah, I have multiple checkouts of a few projects, I know, I know.
+
+### Editing often feels clunky
+
+Writing just didn't feel like a pleasant experience to me with Obsidian.  I honestly don't have a lot of concrete data to point to _why_, it just didn't feel good!
+
+The only actual issue I can remember is the frustrating ambiguity as to what an asterisk is about to do in markdown.  I make a lot of unordered lists when organizing projects, notes, or just writing about things — this article, for example, was written in my typical writing style of having a big ol' unordered list at the bottom that I slowly turned into paragraphs.
+
+Wrapping something in asterisks in markdown creates emphasis, though, so Obsidian will add another asterisk _after_ your current cursor location when you type one.  But, if your line starts with an asterisk and you press enter, Obsidian will create a new line for you that starts with an asterisk.
+
+Maybe this is the behavior that other people want, but it often broke my flow as I was writing.
+
+### Panes and tabs
+
+I also just found the pane model frustrating.  Obsidian (as far as I know) doesn't support tabs, which means in order to open another file, it must be in another pane, or it'll close the editor you had open in order to open the new file.  To keep a file open, you can pin it, and then opening a new file will create a new split pane, which is kind of nice, but again, I just prefer the way that VSCode does it.
+
+### Organization
+
+I'd prefer if Obsidian didn't keep around empty files with the title "Untitled" — I would often find myself opening and then closing a new file, so at the end of the day, I'd have at least one completely empty "Untitled.md" file to delete from my notes.
