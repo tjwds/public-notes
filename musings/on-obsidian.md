@@ -53,3 +53,7 @@ I also just found the pane model frustrating.  Obsidian (as far as I know) doesn
 ### Organization
 
 I'd prefer if Obsidian didn't keep around empty files with the title "Untitled" — I would often find myself opening and then closing a new file, so at the end of the day, I'd have at least one completely empty "Untitled.md" file to delete from my notes.
+
+### Other thoughts
+
+* VSCode and git go hand-in-hand, and I like using git to back up and see how my notes have changed over time.  VSCode makes unstaged changes very visible, whereas Obsidian doesn't!
