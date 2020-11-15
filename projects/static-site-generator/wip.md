@@ -5,11 +5,8 @@ done:
 * create the html from markdown files
 * stick markdown files in the template
 * a better theme (done for now, I suppose)
+* some semblance of navigation / metadata because of Apache
 
 todo:
 
-* some semblance of navigation
-* RSS
-* lots of metadata
-    * page title
-    * publish date
+* RSS?  Does RSS even make sense if this is more wiki like?  Probably not.
