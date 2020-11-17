@@ -26,3 +26,16 @@
 * The Android app has a desktop widget that shows you how many cards you have left to review, as well as the amount of time it thinks it'll take you.  Put it on your home screen.
 * Do not trust Anki's estimates as to how long things will take you.
 * Stare at those beautiful graphs.  You made those graphs.  Be proud of those graphs.
+
+---
+
+> **joe Today at 8:28 PM**  
+> > any pro strats i should know before i start this deck
+
+> M:  https://notes.joewoods.dev/musings/anki-advice  
+> **M Today at 8:28 PM**  
+> *plugs own blog*  
+> **joe Today at 8:28 PM**  
+> Excuse me  
+> [blog.joewoods.dev](https://blog.joewoods.dev) is my blog  
+> That's my wiki
