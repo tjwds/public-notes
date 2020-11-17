@@ -20,6 +20,7 @@
 * Anki compounds very quickly.  Your first few reviews will only take a few minutes.  Don't ramp up to too many cards too quickly.
 * Start small and work your way up.  Set a goal, achieve it, then keep climbing.
 * Keep routines.  Doing your flashcards when you're already exhausted and just want to go to bed is one of the worst feelings in the world.
+* Sometimes you just won't be in the mindset; you'll start your reviews and things just won't click, or you won't be able to remember things you know you should be able to.  Just take a quick break and come back soon.
 * Let Anki take over your life.  Make decks for weird stuff; I have a flashcard for my upstairs neighbor's dog's name so I don't forget.
 * I generally compose new cards on desktop and review on mobile, unless something weird is going on.
 * Seriously, get the mobile app.  It's worth it.
