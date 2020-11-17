@@ -31,6 +31,7 @@
     body * {
         width: 100%;
         text-align: left;
+        box-sizing: border-box;
     }
     a {
         color: #00b7ff;
@@ -38,10 +39,21 @@
     a:visited {
         color: #ca83f7;
     }
-    code {
+    pre, :not(pre) > code {
         padding: 0.3rem;
         border-radius: 0.3rem;
         border: 0.3px solid;
+    }
+    blockquote {
+        border-left: 1px solid;
+        padding-left: 1rem;
+        width: calc(100% - 4rem);
+    }
+    blockquote > blockquote {
+        margin-left: 0;
+    }
+    hr {
+        color: #c7e0e8;
     }
     </style>
 </head>
