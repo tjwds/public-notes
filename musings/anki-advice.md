@@ -19,6 +19,7 @@
 * Don't try to add cards you haven't at least been exposed to in some way.  If you're downloading a deck from the internet, go through every card you want to learn from it first.  (Yes, every card.  This may actually more than one day for some decks.)
 * Anki compounds very quickly.  Your first few reviews will only take a few minutes.  Don't ramp up to too many cards too quickly.
 * Start small and work your way up.  Set a goal, achieve it, then keep climbing.
+* 20 new cards a day — Anki's default for a deck — is way too much, in my opinion.  You may want to reduce this.
 * Keep routines.  Doing your flashcards when you're already exhausted and just want to go to bed is one of the worst feelings in the world.
 * Sometimes you just won't be in the mindset; you'll start your reviews and things just won't click, or you won't be able to remember things you know you should be able to.  Just take a quick break and come back soon.
 * Let Anki take over your life.  Make decks for weird stuff; I have a flashcard for my upstairs neighbor's dog's name so I don't forget.
