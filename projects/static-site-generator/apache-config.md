@@ -5,3 +5,4 @@
     * Did you know that .dev domains _must_ use https?  Thankfully, it only takes an extra 30 seconds to set up with certbot!
 * Use `mod_autoindex`:
     * `IndexOptions FancyIndexing SuppressHTMLPreamble XHTML IconsAreLinks FoldersFirst SuppressDescription`
+* We also need to use our autoindex template with `HeaderName /.templates/preamble.html`.
