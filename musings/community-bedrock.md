@@ -16,6 +16,7 @@ Here are some technologies:
 * IRC Channels
 * Subreddits
 * Lobste.rs-like link-share site
+* Blog post comments
 
 None of those technologies feel like a good place to start the community I want to build.
 
